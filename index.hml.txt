@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lumalee Token</title>
+    <style>
+      body {
+        background: linear-gradient(to bottom, #FFA500, #FF8C00);
+      }
+
+      h1 {
+        text-align: center;
+        font-size: 3rem;
+        color: white;
+        text-shadow: 2px 2px #000000;
+      }
+
+      .container {
+        max-width: 800px;
+        margin: auto;
+        padding: 2rem;
+        background-color: white;
+        border-radius: 1rem;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      }
+
+      h2 {
+        color: #FF8C00;
+        font-size: 2rem;
+        margin-top: 1rem;
+      }
+
+      p {
+        line-height: 1.5;
+        margin-bottom: 1.5rem;
+      }
+
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      li::before {
+        content: "\2022";
+        color: #FF8C00;
+        display: inline-block;
+        width: 1em;
+        margin-left: -1em;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Lumalee Token</h1>
+    </header>
+    <div class="container">
+      <h2>Misión</h2>
+      <p>Inserte aquí la misión de Lumalee Token.</p>
+      <h2>Visión</h2>
+      <p>Inserte aquí la visión de Lumalee Token.</p>
+      <h2>Road Map</h2>
+      <ul>
+        <li>Inserte aquí el hito 1 del Road Map.</li>
+        <li>Inserte aquí el hito 2 del Road Map.</li>
+        <li>Inserte aquí el hito 3 del Road Map.</li>
+      </ul>
+      <h2>Datos de Lumalee Token</h2>
+      <p>Inserte aquí los datos relevantes de Lumalee Token, como su símbolo, el suministro total, el precio actual, etc.</p>
+    </div>
+  </body>
+</html>
